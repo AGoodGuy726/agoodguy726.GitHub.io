@@ -1,7 +1,7 @@
----
+﻿---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "麻麻再也不用担心有人问我作业了 " 
 header-img: "img/green.jpg"
 ---
 
